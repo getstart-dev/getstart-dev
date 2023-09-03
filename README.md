@@ -3,6 +3,7 @@
 ## Links
 
 - https://pages.github.com/
+- https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages
 - https://tailwindcss.com/docs/guides/vite
 - https://dev.to/shashannkbawa/deploying-vite-app-to-github-pages-3ane#comment-22iei
 - https://dev.to/shashannkbawa/deploying-vite-app-to-github-pages-3ane#comment-23009
