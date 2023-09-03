@@ -24,7 +24,8 @@ function App() {
           Quickly bootstrap your development project in your preferred language and framework.
         </div>
         <div className="m-8">
-          <form className="drop-shadow-2xl flex flex-col md:flex-row items-center">
+          <form className="drop-shadow-2xl flex flex-col md:flex-row items-center"
+            action="https://getlaunchlist.com/s/cws1wE">
             <input
               className="py-1 md:w-80 px-3 border border-pink-400 rounded-sm"
               type="email"
